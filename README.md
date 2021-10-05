@@ -5,7 +5,9 @@
 - 📫 How to reach me, [My Willow] 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=JustDesoroxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustDesoroxxx&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+
+
+
 
 
 [My Willow]: https://wlo.link/@Desoroxxx
