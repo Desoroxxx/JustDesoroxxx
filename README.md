@@ -1,13 +1,12 @@
-# Desoroxxx
-
-[![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
-[![Youtuber](https://img.shields.io/youtube/channel/subscribers/UCeeXgZ9bywrjbuxg3z7jv4g?color=E44444&style=for-the-badge&logo=youtube&logoWidth=20)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
-[![Twitch](https://img.shields.io/twitch/status/JustDesoroxxx?style=for-the-badge)](https://www.twitch.tv/justdesoroxxx)
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82710983/136543084-86cdb8d4-b6f3-49ba-9f7c-8b11e23463c5.png" width="750" />
+  <img src="https://user-images.githubusercontent.com/82710983/149632751-478fb49e-783d-4cfe-9144-ec1054738098.png" width="750" />
 <a>
 
+[![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCeeXgZ9bywrjbuxg3z7jv4g?color=E44444&style=for-the-badge&logo=youtube&logoWidth=20)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
+[![Twitch](https://img.shields.io/twitch/status/JustDesoroxxx?style=for-the-badge)](https://www.twitch.tv/justdesoroxxx)
+
+  
 Hello, I'm Desoroxxx my real name is Léo Mathis Lage, I play games and create them and in general I love creating things.
 
 All my info: [My Willow]
