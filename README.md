@@ -7,11 +7,11 @@
 [![Twitch](https://img.shields.io/twitch/status/JustDesoroxxx?style=for-the-badge)](https://www.twitch.tv/justdesoroxxx)
 
   
-Hello, I'm Desoroxxx my real name is Léo Mathis Lage, I play games and create them and in general I love creating things.
+Hello, I'm Desoroxxx my real name is Luna Lage, I play games and create them and in general I love creating things.
 
 All my info: [My Willow]
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 - 👀 I’m interested in programming, and all sort of things
 - 🌱 I’m currently learning in self improvement
 - 💞️ I’m looking to collaborate in everything that touch my interest
@@ -24,4 +24,4 @@ All my info: [My Willow]
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
 
-[My Willow]: https://wlo.link/@Desoroxxx
+[My Willow]: wlo.link/@Desoroxxx
