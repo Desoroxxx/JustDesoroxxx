@@ -24,4 +24,4 @@ All my info: [My Willow]
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
 
-[My Willow]: wlo.link/@Desoroxxx
+[My Willow]: https://wlo.link/@Desoroxxx
