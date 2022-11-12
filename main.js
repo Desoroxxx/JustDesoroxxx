@@ -188,7 +188,13 @@ function draw(){
   requestAnimationFrame(draw);
 }
 
-draw();
+const isReduced = window.matchMedia(`(prefers-reduced-motion: reduce)`) === true || window.matchMedia(`(prefers-reduced-motion: reduce)`).matches === true;
+let canDraw = 1
+
+// Check if the user ask for reduced motion
+if (!isReduced) {
+  draw();
+}
 
 ////////////////////////////
 //About me text animation//
