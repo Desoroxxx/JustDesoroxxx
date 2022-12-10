@@ -61,6 +61,11 @@
 	}
 }
 
+* {
+	font-family: 'Nunito';
+}
+
+
 canvas {
 	z-index: -1;
 	position: fixed;
@@ -71,15 +76,15 @@ canvas {
 	filter: blur(20px);
 }
 
-body {
-	font-family: 'Nunito';
+span {
+	font-size: 1.0625rem;
 }
 
 .logo {
-	position: fixed;
+	position: absolute;
 	width:82px;
 	height:95px;
-	top: 20px;
+	top: 44px;
 	left: 60px;
 }
 
@@ -94,9 +99,11 @@ body {
     position: relative;
     padding: 0px 0px 0px 90px;
 	top: -110px;
+	font-size: 2.625rem;
 }
 .title.desc {
     top: -140px;
+	font-size: 1.5rem;
 }
 
 
@@ -117,15 +124,15 @@ body {
 }
 
 .about-me-fixed {
-	font-size: 16px;
+	font-size: 1rem;
 }
 
 .about-me {
-	font-size: 16px;
+	font-size: 1rem;
 	margin-right: 40px;
 }
 .about-me.hello {
-	font-size: 18px;
+	font-size: 1.125rem;
 }
 .about-me.cursor {
 	animation: blink .6s step-end infinite alternate;
@@ -139,15 +146,30 @@ body {
 
 .btn {
 	padding: 0.8rem;
-	font-size: 14px;
+	font-size: 0.875rem;
 	text-transform: uppercase;
 	border-radius: 4px;
-	font-weight: 400;
 	display: block;
 	width: 100%;
-	cursor: pointer;
 	background: transparent;
+	height: 44px;
+	cursor: pointer;
   }
+
+.icon {
+	position: relative;
+	height: 32px;
+	padding: 0px;
+	right: 10px;
+	top: 12px;
+	margin-left: -33px;
+	margin-top: -32px;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
   
   .cards {
 	list-style: none;
@@ -170,6 +192,7 @@ body {
 	flex-direction: column;
 	overflow: hidden;
 	border-radius: 10px;
+	max-width: 800px;
   }
   
   .card_content {
@@ -178,7 +201,6 @@ body {
   
   .card_title {
 	font-size: 1.1rem;
-	font-weight: 700;
 	letter-spacing: 1px;
 	text-transform: capitalize;
 	margin: 0px;
@@ -187,13 +209,21 @@ body {
   .card_text {
 	font-size: 0.875rem;
 	line-height: 1.5;
-	margin-bottom: 1.25rem;    
-	font-weight: 400;
+  }
+
+  .cards_item h4 {
+	font-size: 1.125rem;
+  }
+
+  .cards_item h5 {
+	font-size: 1rem;
   }
 
   .cardimg {
 	height: auto;
 	max-width: 100%;
 	max-height: 100%;
-	vertical-align: middle;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
   }
