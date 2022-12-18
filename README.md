@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCeeXgZ9bywrjbuxg3z7jv4g?color=E44444&style=for-the-badge&logo=youtube&logoWidth=20)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
-[![Twitch](https://img.shields.io/twitch/status/JustDesoroxxx?style=for-the-badge)](https://www.twitch.tv/justdesoroxxx)
+[![Twitch](https://img.shields.io/twitch/status/Desoroxxx?style=for-the-badge)](https://www.twitch.tv/desoroxxx)
 
   
 Hello, I'm Desoroxxx. My real name is Luna Lage, I play games and create them and in general I love creating things.
