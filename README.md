@@ -9,7 +9,9 @@
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
-All my info: [My Willow]
+All my info: [My Portfolio]
+
+All my socials: [My Willow]
 
 - 😄 Pronouns: she/her
 - 👀 I’m interested in programming, and all sort of things
@@ -24,4 +26,5 @@ All my info: [My Willow]
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
 
+[My Portfolio]: https://i-like.cat/Portfolio
 [My Willow]: https://wlo.link/@Desoroxxx
