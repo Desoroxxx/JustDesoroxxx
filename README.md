@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/twitch/status/Desoroxxx?style=for-the-badge)](https://www.twitch.tv/desoroxxx)
 
   
-Hello, I'm Desoroxxx. My real name is Luna Lage, I play games and create them and in general I love creating things.
+Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
 All my info: [My Willow]
 
