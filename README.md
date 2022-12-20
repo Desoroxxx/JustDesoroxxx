@@ -13,7 +13,7 @@ All my info: [My Willow]
 
 - 😄 Pronouns: she/her
 - 👀 I’m interested in programming, and all sort of things
-- 🌱 I’m currently learning in self improvement
+- 🌱 I’m currently learning in Java
 - 💞️ I’m looking to collaborate in everything that touch my interest
 
 ## My Stats
