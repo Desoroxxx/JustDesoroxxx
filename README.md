@@ -26,7 +26,7 @@ All my socials: [My Willow]
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/master/devcard.svg" width="400" alt="Desoroxxx Dev Card"/></a>
+<a href="https://app.daily.dev/Desoroxxx"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/main/devcard.svg" width="400" alt="Desoroxxx Dev Card"/></a>
 
 [My Portfolio]: https://i-like.cat/Portfolio
 [My Willow]: https://wlo.link/@Desoroxxx
