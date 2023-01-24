@@ -6,6 +6,8 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCeeXgZ9bywrjbuxg3z7jv4g?color=E44444&style=for-the-badge&logo=youtube&logoWidth=20)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
 [![Twitch](https://img.shields.io/twitch/status/Desoroxxx?style=for-the-badge)](https://www.twitch.tv/desoroxxx)
 
+<a href="https://app.daily.dev/Desoroxxx"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/main/devcard.svg" width="340" align="right" alt="Desoroxxx Dev Card"/></a>
+
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
@@ -25,8 +27,6 @@ All my socials: [My Willow]
 </a>
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
-
-<a href="https://app.daily.dev/Desoroxxx"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/main/devcard.svg" width="400" alt="Desoroxxx Dev Card"/></a>
 
 [My Portfolio]: https://i-like.cat/Portfolio
 [My Willow]: https://wlo.link/@Desoroxxx
