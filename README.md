@@ -38,6 +38,24 @@ All my socials: [My Willow]
 <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
 
+## Want to have your own mod or support me?
+
+If you are looking for a mod but do not have the development skills or time, consider commissioning me!
+My commissions are currently open, and I would be happy to create a custom mod to fit your needs as long as you provide assets.
+
+[Commissions]
+
+You can also support me monthly by becoming a member.
+To thank you will have the possibility to access exclusive post and messages, Discord channel for WIP content, and even access to unreleased Prototypes or WIP Projects.
+
+[Membership]
+
+You can also [buy me a hot chocolate].
+
+[Commissions]: https://www.buymeacoffee.com/desoroxxx/commissions
+[Membership]: https://www.buymeacoffee.com/desoroxxx/membership
+[buy me a hot chocolate]: https://www.buymeacoffee.com/desoroxxx
+
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
 [My Portfolio]: https://justdesoroxxx.github.io/Portfolio/
 [My Willow]: https://wlo.link/@Desoroxxx
