@@ -17,7 +17,7 @@ All my info: [My Portfolio]
 All my socials: [My Willow]
 
 - 👀 I’m interested in programming, and all sort of things
-- 🌱 I’m currently learning in Java
+- 🌱 I’m currently learning advanced OpenGL and advanced Java
 - 💞️ I’m looking to collaborate in everything that touch my interest
 
 ## Currenty Working On
