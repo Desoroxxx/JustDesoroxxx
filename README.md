@@ -30,6 +30,14 @@ All my socials: [My Willow]
 
 [![Curse Forge](https://cf.way2muchnoise.eu/title/836353_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/modern-warfare-cubed)
 
+## Other Projects
+
+- [Re-Crystallized Wing]
+
+[![Curse Forge](https://cf.way2muchnoise.eu/title/839163_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/rcw)
+
+- [Opticraft]
+
 ## My Stats
 
 <a>
@@ -59,5 +67,8 @@ You can also [buy me a hot chocolate].
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
 [My Portfolio]: https://justdesoroxxx.github.io/Portfolio/
 [My Willow]: https://wlo.link/@Desoroxxx
+  
 [Fancier Block Particles]: https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles
 [Modern Warfare Cubed]: https://github.com/Cubed-Development/Modern-Warfare-Cubed
+[Re-Crystallized Wing]: https://github.com/Desoroxxx/Re-Crystallized-Wing
+[Opticraft]: https://red-studio-ragnarok.github.io/Opticraft/
