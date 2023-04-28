@@ -65,7 +65,7 @@ You can also [buy me a hot chocolate].
 [buy me a hot chocolate]: https://www.buymeacoffee.com/desoroxxx
 
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
-[My Portfolio]: https://justdesoroxxx.github.io/Portfolio/
+[My Portfolio]: https://desoroxxx.github.io/Portfolio/
 [My Willow]: https://wlo.link/@Desoroxxx
   
 [Fancier Block Particles]: https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles
