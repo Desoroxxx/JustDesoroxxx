@@ -1,14 +1,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82710983/149632751-478fb49e-783d-4cfe-9144-ec1054738098.png" width="750" />
 <a>
-
-[![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCeeXgZ9bywrjbuxg3z7jv4g?color=E44444&style=for-the-badge&logo=youtube&logoWidth=20)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
-[![Twitch](https://img.shields.io/twitch/status/Desoroxxx?style=for-the-badge)](https://www.twitch.tv/desoroxxx)
+  
+[![Buy Me a Coffee](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/desoroxxx)
+[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/hKpUYx7VwS)
+[![Youtube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
 
 <a href="https://app.daily.dev/Desoroxxx"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/main/devcard.svg" width="300" align="right" alt="Desoroxxx Dev Card"/></a>
-
-<a href="https://www.buymeacoffee.com/desoroxxx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
@@ -22,21 +20,41 @@ All my socials: [My Willow]
 
 ## Currenty Working On
 
-- [Fancier Block Particles]
-  
-[![Curse Forge](https://cf.way2muchnoise.eu/title/666575_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles)
-  
-- [Modern Warfare Cubed]
+- [Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)
 
-[![Curse Forge](https://cf.way2muchnoise.eu/title/836353_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/modern-warfare-cubed)
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/modern-warfare-cubed)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/modern-warfare-cubed)
+
+- [Fancier Block Particles](https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles)
+  
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/fbp)
+  
+- [Valkyrie](https://github.com/Red-Studio-Ragnarok/Valkyrie)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/valkyrie)
 
 ## Other Projects
 
-- [Re-Crystallized Wing]
+- [Red Core]()
 
-[![Curse Forge](https://cf.way2muchnoise.eu/title/839163_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/rcw)
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/red-core)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/red-core)
 
-- [Opticraft]
+- [Re-Crystallized Wing](https://github.com/Desoroxxx/Re-Crystallized-Wing)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/rcw)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/rcw)
+
+- [Mystic Staffs](https://github.com/Desoroxxx/Mystic-Staffs)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/mystic-staffs)
+
+- [Mystic Bows](https://github.com/Desoroxxx/Mystic-Bows)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/mystic-bows)
+
+- [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/)
 
 ## My Stats
 
@@ -67,8 +85,3 @@ You can also [buy me a hot chocolate].
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
 [My Portfolio]: https://desoroxxx.github.io/Portfolio/
 [My Willow]: https://wlo.link/@Desoroxxx
-  
-[Fancier Block Particles]: https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles
-[Modern Warfare Cubed]: https://github.com/Cubed-Development/Modern-Warfare-Cubed
-[Re-Crystallized Wing]: https://github.com/Desoroxxx/Re-Crystallized-Wing
-[Opticraft]: https://red-studio-ragnarok.github.io/Opticraft/
