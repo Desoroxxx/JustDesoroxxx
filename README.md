@@ -34,7 +34,7 @@ All my socials: [My Willow]
 
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/valkyrie)
 
-- [Red Core]()
+- [Red Core](https://github.com/Red-Studio-Ragnarok/Red-Core)
 
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/red-core)
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/red-core)
