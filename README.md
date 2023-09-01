@@ -62,7 +62,7 @@ All my socials: [My Willow]
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desoroxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </a>
 <a>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true&langs_count=16" />
 
 ## Want to have your own mod or support me?
 
