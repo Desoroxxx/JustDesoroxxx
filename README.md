@@ -56,14 +56,6 @@ All my socials: [My Willow]
 
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/)
 
-## My Stats
-
-<a>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desoroxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</a>
-<a>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true&langs_count=16" />
-
 ## Want to have your own mod or support me?
 
 If you are looking for a mod but do not have the development skills or time, consider commissioning me!
@@ -85,3 +77,11 @@ You can also [buy me a hot chocolate].
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
 [My Portfolio]: https://desoroxxx.github.io/Portfolio/
 [My Willow]: https://wlo.link/@Desoroxxx
+
+## My Stats
+
+<a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desoroxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</a>
+<a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
