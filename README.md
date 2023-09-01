@@ -54,7 +54,9 @@ All my socials: [My Willow]
 
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/mystic-bows)
 
-- [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/)
+- [Opticraft](https://github.com/Red-Studio-Ragnarok/Opticraft)
+
+[![Opticraft](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://red-studio-ragnarok.github.io/Opticraft/)
 
 ## Want to have your own mod or support me?
 
