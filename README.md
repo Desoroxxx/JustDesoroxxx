@@ -71,7 +71,7 @@ All my socials: [My Willow]
 
 - [Gradle Embeder](https://github.com/Red-Studio-Ragnarok/Gradle-Embeder)
 
-[![Gradle Embeder](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/gradle_vector.svg)](https://plugins.gradle.org/plugin/dev.redstudio.gradleembeder)
+[![Gradle Embeder](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/gradle_vector.svg)](https://plugins.gradle.org/plugin/dev.redstudio.gradleembeder)
 
 ## Want to have your own mod or support me?
 
