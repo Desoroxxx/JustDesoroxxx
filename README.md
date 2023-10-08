@@ -69,6 +69,10 @@ All my socials: [My Willow]
 
 [![Opticraft](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://red-studio-ragnarok.github.io/Opticraft/)
 
+- [Gradle Embeder](https://github.com/Red-Studio-Ragnarok/Gradle-Embeder)
+
+[![Gradle Embeder](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/gradle_vector.svg)](https://plugins.gradle.org/plugin/dev.redstudio.gradleembeder)
+
 ## Want to have your own mod or support me?
 
 If you are looking for a mod but do not have the development skills or time, consider commissioning me!
