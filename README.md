@@ -18,6 +18,8 @@ All my socials: [My Willow]
 - 🌱 I’m currently learning advanced OpenGL and advanced Java
 - 💞️ I’m looking to collaborate in everything that touch my interest
 
+[![wakatime](https://wakatime.com/badge/user/3f851b7d-e6b4-4143-a3c2-24dc4b9913a3.svg)](https://wakatime.com/@3f851b7d-e6b4-4143-a3c2-24dc4b9913a3)
+
 ## Currenty Working On
 
 - [Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)
