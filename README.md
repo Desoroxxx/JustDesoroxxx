@@ -97,4 +97,4 @@ You can also [buy me a hot chocolate].
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Desoroxxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=percentile" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desoroxxx&layout=donut&theme=github_dark&hide_border=true&count_private=true&langs_count=8" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Desoroxxx&theme=github_dark&hide_border=true&langs_count=32" />
