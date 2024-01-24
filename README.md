@@ -15,7 +15,7 @@ All my info: [My Portfolio]
 All my socials: [My Willow]
 
 - 👀 I’m interested in programming, and all sort of things
-- 🌱 I’m currently learning advanced OpenGL and advanced Java
+- 🌱 I’m currently learning game dev with [LWJGL](https://www.lwjgl.org/)
 - 💞️ I’m looking to collaborate in everything that touch my interest
 
 [![wakatime](https://wakatime.com/badge/user/3f851b7d-e6b4-4143-a3c2-24dc4b9913a3.svg)](https://wakatime.com/@3f851b7d-e6b4-4143-a3c2-24dc4b9913a3)
@@ -32,15 +32,15 @@ All my socials: [My Willow]
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/fbp)
   
+- [Alfheim](https://github.com/Red-Studio-Ragnarok/Alfheim)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/alfheim-lighting-engine)
+
 - [Valkyrie](https://github.com/Red-Studio-Ragnarok/Valkyrie)
 
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/valkyrie)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/valkyrie)
-
-- [Alfheim](https://github.com/Red-Studio-Ragnarok/Alfheim)
-
-[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/alfheim)
 
 - [Red Core](https://github.com/Red-Studio-Ragnarok/Red-Core)
 
