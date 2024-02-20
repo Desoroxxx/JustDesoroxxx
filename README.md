@@ -6,7 +6,7 @@
 [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/hKpUYx7VwS)
 [![Youtube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/channel/UCeeXgZ9bywrjbuxg3z7jv4g)
 
-<a href="https://app.daily.dev/Desoroxxx"><img src="https://github.com/JustDesoroxxx/JustDesoroxxx/blob/main/devcard.svg" width="300" align="right" alt="Desoroxxx Dev Card"/></a>
+<a href="https://app.daily.dev/desoroxxx"><img src="./devcard.png" width="300" align="right" alt="Desoroxxx Dev Card"/></a>
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
