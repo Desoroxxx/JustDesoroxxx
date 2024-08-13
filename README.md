@@ -47,16 +47,16 @@ All my socials: [My Willow]
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/red-core)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/red-core)
 
+- [Re-Crystallized Wing](https://github.com/Desoroxxx/Re-Crystallized-Wing)
+
+[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/rcw)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/rcw)
+
 ## Other Projects
 
 - [Opticraft](https://github.com/Red-Studio-Ragnarok/Opticraft)
 
 [![Opticraft](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://red-studio-ragnarok.github.io/Opticraft/)
-
-- [Re-Crystallized Wing](https://github.com/Desoroxxx/Re-Crystallized-Wing)
-
-[![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/rcw)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/rcw)
 
 - [Wither Config](https://github.com/Desoroxxx/Wither-Config)
 
