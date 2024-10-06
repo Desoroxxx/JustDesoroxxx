@@ -10,9 +10,9 @@
   
 Hi, I'm Desoroxxx. My name is Luna Lage, I play games and create things.
 
-All my info: [My Portfolio]
+[My Socials](https://solo.to/desoroxxx)
 
-All my socials: [My Willow]
+[My Portfolio](https://desoroxxx.github.io/Portfolio/) (Outdated)
 
 - 👀 I’m interested in programming, and all sort of things
 - 🌱 I’m currently learning game dev with [LWJGL](https://www.lwjgl.org/)
@@ -95,8 +95,6 @@ You can also [buy me a hot chocolate].
 [buy me a hot chocolate]: https://www.buymeacoffee.com/desoroxxx
 
 [Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
-[My Portfolio]: https://desoroxxx.github.io/Portfolio/
-[My Willow]: https://wlo.link/@Desoroxxx
 
 ## My Stats
 
